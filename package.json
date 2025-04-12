@@ -1,0 +1,11 @@
+{
+    "name": "nucampsite-weather",
+    "version": "1.0.0",
+    "scripts": {
+      "sass": "sass styles.scss styles.css --watch"
+    },
+    "devDependencies": {
+      "sass": "^1.62.0"
+    }
+  }
+  
